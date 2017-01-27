@@ -15,5 +15,6 @@ var hohohoElement = document.getElementById("coloredReindeer");
 // etc...
 
 for (i=0; i<reindeer.length; i++) {
-	
+	reindeer[i] = colors[i] + " " + reindeer[i];
+	hohohoElement.innerHTML += reindeer[i] + "</br>";
 }
