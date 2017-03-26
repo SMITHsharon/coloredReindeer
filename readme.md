@@ -1,10 +1,10 @@
 # NSS Colored Reindeer
 
 ### Project Description 
-This exercises 
+This exercise loops through two different arrays, to output paired elements from the two arrays to the DOM.
 
 #### Screen Grab Colored Reindeer Output
-![Colored Reindeer Screen Grab](...)
+![Colored Reindeer Screen Grab](https://raw.githubusercontent.com/SMITHsharon/coloredReindeer/screen/screen/Colored%20Reindeer%20Screen%20Grab.png)
 
 
 ### Project Specs
