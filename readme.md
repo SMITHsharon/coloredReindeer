@@ -22,9 +22,9 @@ This exercise loops through two different arrays, to output paired elements from
 	var hohohoElement = document.getElementById("coloredReindeer");
 	```
 
-- Looped through all the reindeer in the array.
-- Added the name of the reindeer to the single `html` `<div>` element provided. 
-- The name of the reindeer are prepended with the corresponding color from the other array.
+- Loops through all the reindeer in the array.
+- Adds the name of the reindeer to the single `html` `<div>` element provided. 
+- Each reindeer name is prepended with the corresponding color from the other array.
 
 #### Example:
 Blue Dasher
@@ -33,7 +33,7 @@ etc...
 
 ### Technologies Used
 - `html`
-- `javascript`
+- `JavaScript`
 
 
 ### How To Run the App
@@ -41,12 +41,9 @@ etc...
 ```
 git clone https://github.com/SMITHsharon/coloredReindeer.git
 cd reindeer
-npm install http-server -g
 http-server -p 8080
+This will show in your browser (at the console) at: http://localhost:8080
 ```
-
-This will show in your browser (at the console) at: `http://localhost:8080`
-
 
 ### Contributor
 [Sharon Smith](https://github.com/SMITHsharon)
