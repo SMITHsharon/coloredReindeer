@@ -27,9 +27,9 @@ This exercise loops through two different arrays, to output paired elements from
 - Each reindeer name is prepended with the corresponding color from the other array.
 
 #### Example:
-Blue Dasher
-Red Dancer
-etc...
+- Blue Dasher
+- Red Dancer
+- etc...
 
 ### Technologies Used
 - `html`
